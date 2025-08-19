@@ -7,9 +7,6 @@
 
 </p>
 
-<h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
-
-<hr>
 
 <h2>Things I Know</h2>
 <ul>
