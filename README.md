@@ -1,6 +1,4 @@
-<p align="center">
   <img align="center" width="280" src="./wellcome.gif"/>
-</p>
 
 <p align="center">
   Hi, I'm Mahdi! I’m deeply passionate about programming and have been working with Kotlin for about 1–2 years. Early on, I developed several applications, including a currency tracker, a notes app, and a flower & plant shop app. This year, I’m focusing on building a much larger and more ambitious project.
