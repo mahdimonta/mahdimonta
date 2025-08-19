@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/>
+  <img align="center" width="280" src="./wellcome.json"/>
 </p>
 
 <p align="center">
