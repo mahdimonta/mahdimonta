@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="280" src="./wellcome.json"/>
+  <img align="center" width="280" src="./wellcome.gif"/>
 </p>
 
 <p align="center">
