@@ -1,8 +1,5 @@
 <p align="center">
- <video width="300" height="200" controls>
-  <source src="animation.mp4" type="video/mp4">
-  مرورگر شما از تگ ویدیو پشتیبانی نمی‌کنه.
-</video>
+ <img src="animation.gif"/>
 </p>
 
 <p align="center">
