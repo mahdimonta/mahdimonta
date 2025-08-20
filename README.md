@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./animation.gif.mp4" width="280" alt="Welcome Animation"/>
+ <video width="300" height="200" controls>
+  <source src="animation.mp4" type="video/mp4">
+  مرورگر شما از تگ ویدیو پشتیبانی نمی‌کنه.
+</video>
 </p>
 
 <p align="center">
